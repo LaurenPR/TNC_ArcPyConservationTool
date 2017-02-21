@@ -5,6 +5,7 @@ As of February 2017 the model is still in a draft format, althought it runs curr
 
 # Objectives
 1 - Identify and rank potential parcels that lie close to existing conservation land that could help create large, contiguous conservation projects (best for habitat preservation), while excluding water from the calculation of nearby conservation (or any other specified shapefile) 
+
 2 - Identify and rank potential parcels that would help improve the connectivity of existing conservation land
 
 The script currently takes a little over 8 minutes to run and has been successful at completing both goals. The output table has the desired fields completed, as specified by my conversations with Rich Johnson at TNC.
